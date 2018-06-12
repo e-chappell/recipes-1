@@ -3,5 +3,6 @@
 - chickpeas
 - lime
 - garlic
+- tahini
 
 # steps
